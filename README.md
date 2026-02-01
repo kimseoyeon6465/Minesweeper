@@ -1,5 +1,8 @@
 프로젝트명: Minesweeper
 
+🎥YouTube<br>
+https://www.youtube.com/watch?v=CK9b8Uc0fAY
+
 프로젝트 개요
 2차원 데이터 구조와 사용자 입력을 기반으로 상태 변화를 처리하는
 콘솔 환경의 지뢰 탐색 프로그램입니다.
